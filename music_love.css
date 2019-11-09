@@ -171,12 +171,12 @@ background: #c42e3b;
     right: 8px !important;
     left: auto !important;
 }
- 
+
 #user-lists .list.room .user .icon-grab {
     right: 35px;
 }
 /* Chat Fade */
- 
+
 #chat .emote, #chat .mention, #chat .message, #chat .moderation, #chat .skip, #chat .system, #chat .update, #chat .welcome {
   -webkit-animation: fadein 0.35s;
   -moz-animation: fadein 0.35s;
@@ -184,32 +184,32 @@ background: #c42e3b;
   -o-animation: fadein 0.35s;
   animation: fadein 0.35s;
 }
- 
+
 @keyframes fadein {
   from {opacity: 0;};
   to {opacity: 1;};
 }
- 
+
 @-moz-keyframes fadein {
   from {opacity: 0;};
   to {opacity: 1;};
 }
- 
+
 @-webkit-keyframes fadein {
   from {opacity: 0;};
   to {opacity: 1;};
 }
- 
+
 @-ms-keyframes fadein {
   from {opacity: 0;};
   to {opacity: 1;};
 }
- 
+
 @-o-keyframes fadein {
   from {opacity: 0;};
   to {opacity: 1;};
 }
- 
+
 #user-lists .list {
   -webkit-animation: fadein 0.3s;
   -moz-animation: fadein 0.3s;
@@ -217,7 +217,7 @@ background: #c42e3b;
   -o-animation: fadein 0.3s;
   animation: fadein 0.3s;
 }
- 
+
 #waitlist .list {
   -webkit-animation: fadein 0.3s;
   -moz-animation: fadein 0.3s;
