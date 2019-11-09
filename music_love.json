@@ -42,18 +42,10 @@
     "autocomplete": {
         "!user": 0,
         "!rdj": 1,
-        "!bouncer": {
-            "role": 2,
-            "icon": "icon-pp-small"
-        },
-        "!manager": {
-            "role": 3,
-            "icon": "http://emojipedia-us.s3.amazonaws.com/cache/e4/9e/e49e33767a64cf63310af3764fc60126.png"
-        },
+        "!bouncer": 2,
+        "!manager": 3,
         "!cohost":    4,
-        "!host": {
-            "role": 5,
-            "icon": "https://cdn.radiant.dj/rcs/emotes/img/orilurk.png"
+        "!host": 5
         },
         
         "!clearchat": 2,
@@ -88,7 +80,7 @@
         "!join": 0,
         "!leave": 0,
         "!ping": 0,
-        "!thor": 5,
+        "!thor": 5
 
     },
     "emotes": {
@@ -96,5 +88,6 @@
         "jm": "https://i.imgur.com/sGjAh6s.png",
         "eatbrain": "https://i.imgur.com/yKHeLTS.jpg",
         "blackout": "https://i.imgur.com/VTbKBPU.png"
+        "hmmm": "https://i.imgur.com/I0kmFF2.png"
     }
 }
