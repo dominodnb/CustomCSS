@@ -30,7 +30,7 @@
     },
     
     "images":{
-        "background":"https://i.imgur.com/DKAqiOt.jpg",
+        "background":null,
         "playback":null,
         "admin":"https://cdn.radiant.dj/rcs/icons/radiant/admin.png",
         "ambassador":"https://cdn.radiant.dj/rcs/icons/radiant/ambassador.png",
