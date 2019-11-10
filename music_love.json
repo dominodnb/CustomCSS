@@ -16,14 +16,14 @@
     },
     
     "ccc":{
-        "admin":null,
-        "ambassador":null,
+        "admin":"#42A5DC",
+        "ambassador":"#89BE6C",
         "host":"#1C9C1C",
         "cohost":"#1C9C1C",
         "manager":"#1C9C1C",
         "bouncer":"#1C9C1C",
         "rdj":"#5DB4FF",
-        "subscriber":"#CCAC00",
+        "subscriber":"#C59840",
         "silversubscriber":"#A1A6B3",
         "friend":"#148716",
         "user":"#993299"
@@ -81,8 +81,7 @@
         "!emoji":0,
         "!join":0,
         "!leave":0,
-        "!ping":0,
-        "!thor":5},
+        "!ping":0},
     
     "emotes":{
         "custom_test":"https://cdn.radiant.dj/rcs/icons/test_custom.png",
