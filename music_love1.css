@@ -30,7 +30,7 @@
 #header-panel-bar.right-meta,
 .bottom__playback-meta,
 .bottom__playback-controls {
-    background: linear-gradient(hsl(270, 45%, 18%), hsl(360, 36%, 0%, 0.98));
+    background: linear-gradient(hsl(242, 52%, 45%), hsl(241, 53%, 17%));
 }
 .left-side-wrapper {
     background-position-x: center !important;
