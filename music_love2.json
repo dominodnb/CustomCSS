@@ -1,1 +1,94 @@
+{
+    "room":"<3 MUSIC LOVE <3",
+    "author":"gadzo bez chrbta",
+    "icon":"https://i.imgur.com/aIZ8e0A.png",
+    "css":"https://raw.githack.com/dominodnb/CustomCSS/master/music_love.css",
+    
+    "rules":{
+        "allowAutorespond":true,
+        "allowAutowoot":true,
+        "allowAutojoin":false,
+        "allowAutograb":false,
+        "allowSmartVote":true,
+        "allowEmotes":true,
+        "allowShowingMehs":true,
+        "forceSmartVote":false
+    },
+    
+    "ccc":{
+        "admin":"#42A5DC",
+        "ambassador":"#89BE6C",
+        "host":"#1c9c1c",
+        "cohost":"#1c9c1c",
+        "manager":"#518A36",
+        "bouncer":"#7D7B4F",
+        "rdj":"#5DB4FF",
+        "subscriber":"#C59840",
+        "silversubscriber":"#A1A6B3",
+        "friend":"#148716",
+        "user":"#EC7593"
+    },
+    
+    "images":{
+        "background":"https://i.imgur.com/DKAqiOt.jpg",
+        "playback":null,
+        "admin":"https://cdn.radiant.dj/rcs/icons/radiant/admin.png",
+        "ambassador":"https://cdn.radiant.dj/rcs/icons/radiant/ambassador.png",
+        "host":"https://i.imgur.com/AxJJz2L.gif",
+        "cohost":"https://i.imgur.com/AxJJz2L.gif",
+        "manager":"https://i.imgur.com/98q6eDI.png",
+        "bouncer":"https://i.imgur.com/5XYE7yO.png",
+        "rdj":"https://i.imgur.com/9Pis1LR.png",
+        "subscriber":null,
+        "silversubscriber":"https://cdn.radiant.dj/rcs/icons/radiant/subscriber.png"
+    },
+    "autocomplete":{
+        "!user":0,
+        "!rdj":1,
+        "!bouncer":2,
+        "!manager":3,
+        "!cohost":4,
+        "!host":5,
+        
+        "!clearchat":2,
+        "!timeguard":2,
+        "!add":2,
+        "!lock":2,
+        "!remove":2,
+        "!roulette":2,
+        "!songstats":3,
+        "!swap":3,
+        "!welcome":3,
+        "!woot":0,
+        "!bl":2,
+        "!dc":0,
+        "!dclookup":0,
+        "!english":2,
+        "!eta":0,
+        "!filter":3,
+        "!jointime":0,
+        "!kill":3,
+        "!mute":2,
+        "!reload":2,
+        "!status":2,
+        "!ban":3,
+        "!unban":3,
+        "!unmute":2,
+        "!uptime":2,
+        "!voteratio":0,
+        "!whois":0,
+        "!cookie":0,
+        "!emoji":0,
+        "!join":0,
+        "!leave":0,
+        "!ping":0},
+    
+    "emotes":{
+        "custom_test":"https://cdn.radiant.dj/rcs/icons/test_custom.png",
+        "jm":"https://i.imgur.com/sGjAh6s.png",
+        "eatbrain":"https://i.imgur.com/yKHeLTS.jpg",
+        "blackout":"https://i.imgur.com/VTbKBPU.png",
+        "hmmm":"https://i.imgur.com/I0kmFF2.png"
+    }
+}
 
