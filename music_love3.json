@@ -2,7 +2,7 @@
     "room":"<3 MUSIC LOVE <3",
     "author":"gadzo bez chrbta",
     "icon":"https://i.imgur.com/aIZ8e0A.png",
-    "css":"https://github.com/dominodnb/CustomCSS/blob/master/music_love3.css",
+    "css":"https://raw.githack.com/dominodnb/CustomCSS/master/music_love3.css",
     
     "rules":{
         "allowAutorespond":true,
