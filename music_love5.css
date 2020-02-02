@@ -746,7 +746,7 @@
 #user-friends .search,
 .app-right .friends .list-header .input-background {
     border-radius: 8px;
-    background: linear-gradient(to top, hsla(305, 21%, 17%, 0.7), hsla(297, 11%, 24%, 0.7));
+    background: linear-gradient(to top, hsla(241, 53%, 17%), hsla(241, 53%, 17%));
 }
 div.focused { /* Div is here to override rcs */
     color: #EEE !important;
