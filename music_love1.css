@@ -23,7 +23,7 @@
 #playlist-menu .menu .row.selected,
 #room-settings .general-settings button.off,
 #room-settings .general-settings .option.enabled button.on {
-    background: linear-gradient(#46438f #291d34);
+    background: linear-gradient(#3a36ad, #151442);
     box-shadow: inset 0 0 1px 1px hsl(270, 11%, 20%);
 }
 .community .community__top,
